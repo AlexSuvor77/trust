@@ -1,0 +1,2 @@
+# trust
+Hello my friends
